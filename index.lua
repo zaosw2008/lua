@@ -1,2 +1,2 @@
-<?php
-echo 'woshi';
+module(...,package.seall)
+ngx.say('hello')
